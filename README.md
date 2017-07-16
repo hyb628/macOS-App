@@ -48,7 +48,7 @@
 | ClearCache | 一键清除所有浏览器记录 | http://t.cn/zQffwwV |
 | youtube-adblocker-block-v | 跳过YouTube广告 | http://t.cn/RKpFyI6 |
 | web-page-photo | 网页生成长图插件 | http://t.cn/RKpstDq | 
-
+| aerys-tab-manager | 窗口标签管理器, 当打开很多选项卡的时候 点击图标下拉快速切换选项卡 | http://t.cn/RKWdX03 |
 
 ###  翻墙软件
 
