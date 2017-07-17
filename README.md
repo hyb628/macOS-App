@@ -22,6 +22,7 @@
 | WebStorm | 编辑器 | http://t.cn/RK0h9xb | 
 | Office | 文档工具 | https://pan.baidu.com/s/1hrO8Vy8 密码: 6en9 | 
 | 印象笔记 | 印象笔记保存一切 | https://www.yinxiang.com/ |
+| DIVVY | 分屏软件[免费] | http://mizage.com/divvy/ |
 
 ###  社交软件
 
